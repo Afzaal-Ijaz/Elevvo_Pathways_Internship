@@ -1,11 +1,14 @@
 ## Machine Learning Internship – Elevo Pathways
 
-This repository contains the projects I developed during my Machine Learning Internship at Company XYZ. The internship allowed me to gain hands-on experience in AI & Data Science, focusing on building predictive and clustering models to solve real-world problems.
+This repository contains the projects I developed during my Machine Learning Internship at Elevo Pathways. The internship allowed me to gain hands-on experience in AI & Data Science, focusing on building predictive and clustering models to solve real-world problems.
 
 ## 📂 Repository Structure
 📦 Elevvo_Pathways-Internship
+
  ┣ 📂 customer_segmentation
+ 
  ┣ 📂 student_score_predictor
+ 
  ┗ 📄 README.md
 
 ## 🚀 Projects Overview
