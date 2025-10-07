@@ -8,6 +8,8 @@ This repository contains the projects I developed during my Machine Learning Int
  ┣ 📂 customer_segmentation
  
  ┣ 📂 student_score_predictor
+
+ ┣ 📂 sales_forecasting
  
  ┗ 📄 README.md
 
@@ -23,6 +25,11 @@ This repository contains the projects I developed during my Machine Learning Int
   Explored different algorithms and evaluated performance metrics.
   Use case: Supports educators in identifying students who may need additional guidance.
 
+3. Sales Forescasting
+   Developed a sales forecasting model using machine learning (Linear Regression & XGBoost) to predict monthly sales with 93% accuracy.
+   Explored different algorithms and evaluated performance metrics.
+   Use case: Helps businesses improve strategies through sales predictions.
+ 
 ## 🛠️ Tech Stack
 
 Python 3.10+
